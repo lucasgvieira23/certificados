@@ -1,0 +1,20 @@
+# 📜 Certificados
+
+## 💻 Blip - Lógica de Programação
+
+- Plataforma: Digital Innovation One (DIO)
+- Carga horária: 27 horas
+- Conclusão: Março de 2026
+
+📄 [Ver certificado](./Certificado%20de%20conclus%C3%A3o(l%C3%B3gica%20de%20programa%C3%A7%C3%A3o).pdf)
+
+---
+
+## 🧠 Competências desenvolvidas
+
+- Lógica de programação
+- Estruturas condicionais e de repetição
+- Algoritmos
+- Resolução de problemas
+
+🚀 Em breve: projetos práticos aplicando esses conceitos
