@@ -6,7 +6,7 @@
 - Carga horária: 27 horas
 - Conclusão: Março de 2026
 
-📄 [Ver certificado](./Certificado%20de%20conclus%C3%A3o(l%C3%B3gica%20de%20programa%C3%A7%C3%A3o).pdf)
+📄 [Ver certificado](./certificados/certificado-logica-programacao.pdf)
 
 ---
 
